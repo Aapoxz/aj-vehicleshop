@@ -5,8 +5,8 @@ Key features:
 - Only cash allowed!
 - Simple vehicle preview.
 - esx / ox_lib.
-- ox_inventory ONLY!!! (you need it or it wont work).\n
-Shop menu:
+- ox_inventory ONLY!!! (you need it or it wont work).
+  
 <img width="2559" height="1438" alt="image" src="https://github.com/user-attachments/assets/0da7aa41-c13b-401a-b769-25e77be26900" />
 
 Preview:
